@@ -1,0 +1,7 @@
+C:\Users\NEO\source\repos\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\NEO\source\repos\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\NEO\source\repos\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\NEO\source\repos\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\NEO\source\repos\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\NEO\source\repos\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\NEO\source\repos\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
